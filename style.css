@@ -178,6 +178,8 @@ footer{
     background: #343434;
     padding-top: 50px;
     color:white;
+    width:100vw;
+    translate:-8%;
 }
 .container{
     width: 1140px;
